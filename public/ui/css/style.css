@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+/* nav section */
+.nav-section{
+   overflow:hidden;
+   z-index:103333;
+   background:#e0e0e0;
+  
+  
+  }
+.nav-section ul li{
+      font-size: 20px;
+    font-weight: 600;
+    padding:10px;
+  }
+.navbar-brand{
+    font-weight: 700;
+}
+/* nav section  end*/
